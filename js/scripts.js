@@ -1,8 +1,3 @@
-function Contact(first, last) {
-    this.firstName = first;
-    this.lastName = last;
-}
-
 //business logic
 function Contact(first, last) {
     this.firstName = first;
